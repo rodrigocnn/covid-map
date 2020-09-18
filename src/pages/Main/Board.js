@@ -7,7 +7,6 @@ function Board ({data}){
 
 const {cases, todayDeaths, recovered, deaths, todayCases, critical} = data
 
-
 function getValue (value){
     const item = (value)?value : <Skeleton variant="text" width={180} height={40} />
     if(typeof(item) === 'number'){
