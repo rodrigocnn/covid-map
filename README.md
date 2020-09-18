@@ -14,7 +14,7 @@ React Hooks
 
 ## Layout
 
-<img src="%PUBLIC_URL%/home.png">
+<img src="https://github.com/rodrigocnn/covid-map/blob/master/public/home.png">
 
 ## Status do Projeto:
 
