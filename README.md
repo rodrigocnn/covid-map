@@ -14,7 +14,7 @@ React Hooks
 
 ## Layout
 
-<img src="https://photos.google.com/photo/AF1QipPQMBSt6jxBzgUkn3Y6CuZzdUlugRNVQk0hjxDz">
+<img src="%PUBLIC_URL%/home.png">
 
 ## Status do Projeto:
 
